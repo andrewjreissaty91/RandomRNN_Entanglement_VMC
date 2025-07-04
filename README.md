@@ -7,8 +7,7 @@ sample_rnn1d.py
 rnn1d.py (in models folder)
 utils.py (in models folder)
 requirements_entang.txt (for package installation)
-# Instruction: (1) download the packages from the requirements_entang.txt file. (2) Execute the run_rnn1d.py with selected hyperparameters to calculate desired properties.
-
+Instructions: (1) download the packages from the requirements_entang.txt file. (2) Execute the run_rnn1d.py with selected hyperparameters to calculate desired properties.
 
 # Codes needed for VMC optimization of 1D RNN wavefunctions
 run_VMC_rnn1d.py
@@ -16,6 +15,6 @@ VMC_rnn1d.py
 rnn1d.py (in models folder)
 utils.py (in models folder)
 requirements_VMC.txt (for package installation)
-# Instruction: (1) download the packages from the requirements_vmc.txt file. (2) Execute the run_VMC_rnn1d.py with selected hyperparameters to perform selected VMC optimizations.
+Instructions: (1) download the packages from the requirements_vmc.txt file. (2) Execute the run_VMC_rnn1d.py with selected hyperparameters to perform selected VMC optimizations.
 
 
